@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="fdghj" max_length="40" name="sn_joy8_fdghj" type="collection"/>
+    <element label="fdghj" max_length="40" name="sn_joy8_fdghj" sizeclass="0" type="collection"/>
 </database>
